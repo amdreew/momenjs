@@ -1,0 +1,14 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "prueba de momen js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
